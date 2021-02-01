@@ -5,5 +5,5 @@ Vremenska postaja z DHT22 za merjenje temperature in vlage, BMP180 za merjenje z
 ### Poveži ###
 Poveži kot je na sliki
 
-
+![](Images/NodeMCU_ Display_ILI9341_BMP180_DHZ22.JPG)
 
