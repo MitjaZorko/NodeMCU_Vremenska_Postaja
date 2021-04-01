@@ -17,7 +17,7 @@ const char* password = "";
 
 // Ura
 #define utcoffset 3600   // doda časovni pas 1h=3600
-char daysOfTheWeek[7][12] = {"Nedelja", "Ponedeljek", "Torek", "Sreda", "Cetrtek", "Petek", "Sobota"};
+char daysOfTheWeek[7][12] = {"Nedelja    ", "Ponedeljek ", "Torek     ", "Sreda     ", "Cetrtek    ", "Petek     ", "Sobota     "};
 
 // Define NTP Client to get time
 WiFiUDP ntpUDP;
